@@ -1,0 +1,4 @@
+[chanyong1027] Tue May 20 13:12:10 2025 +0900 communication diagram, usecase description 수정 9eabe3a
+[chanyong1027] Mon May 19 01:22:25 2025 +0900 communication diagram 1차 완성 0a4cd0b
+[chanyong1027] Sun May 18 18:04:22 2025 +0900 requirement list, use case diagram, use case description 1차 완성 72b7c6c
+[chanyong] Fri May 16 13:42:30 2025 +0900 Initial commit f408eed
